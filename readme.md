@@ -1,4 +1,4 @@
-<div align="center">
+111000110010101010010101010011000111<div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
 	<!-- <br>
 	<br>
